@@ -1,0 +1,10 @@
+//user authentication
+  1.api/users/signup- done
+  2.api/users/signin-done
+  3.api/users/logout- Not done
+  4.api/usrs/logout from all device - not done
+  ............................................
+  //User Profile Routes 
+  1.api/users/get-details:userid -> done
+  2.api/users/get-alldetails: -> done
+  3.api/users/update-details:id -> 
